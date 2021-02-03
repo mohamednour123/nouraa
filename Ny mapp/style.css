@@ -1,0 +1,30 @@
+@import 'reset.css';
+
+body{
+    background-color: #c0392b;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 1em;
+
+    
+}
+.col3{
+    color:#2ecc71;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+    width: 26%;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 15px;
+    font-size: 16px;
+
+}
+ .col3:hover{border: 2px solid white}
+.l1{background-color: #e74c3c;}
+.l2{background-color: #e67e22;}
+.l3{background-color: #2c3e50;}
